@@ -6,13 +6,13 @@ permalink: /posts/
 ---
 
 # Algorithm
-&nbsp;&nbsp;&nbsp;[Insertion Sort](../_posts/2017-03-05-pagination-post.md)&nbsp;&nbsp;_March 05, 2017_
+&nbsp;&nbsp;&nbsp;[Insertion Sort](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_
 
 # Data Structures
 &nbsp;&nbsp;&nbsp;[Stack](https://shalo1040.github.io/)
 
 # Operating Systems
-&nbsp;&nbsp;&nbsp;[Process Synchronization](https://shalo1040.github.io/)
+&nbsp;&nbsp;&nbsp;[What is Operating Systems?](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_
 
 # Mathematics
-&nbsp;&nbsp;&nbsp;[Probabilities](https://shalo1040.github.io/)
+&nbsp;&nbsp;&nbsp;[Addition, Subtraction, Multiplication of Matrix](../_posts/2019-12-21-matrix.md)&nbsp;&nbsp;_December 21, 2019_
