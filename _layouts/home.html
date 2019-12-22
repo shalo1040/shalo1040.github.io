@@ -21,12 +21,10 @@ layout: default
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    $prev = paginator.previous_page.title;
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592; &nbsp; $prev?</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
   {% endif %}
   {% if paginator.next_page %}
-    $next = paginator.next_page.title;
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594; &nbsp; $next;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
   <span>{{ paginator.page }}</span>
