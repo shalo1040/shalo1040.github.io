@@ -11,7 +11,7 @@ There is no perfect definition for Operating Systems. However, we need something
 Since CPU and device controllers access to shared memory via a common bus, a memory controller should make sure that they all orderly access to memory.
 
 ### How does a computer start running?
-![boot](../_data/os_boot.PNG)
+![boot](/assets/images/os_boot.PNG)
 1. When the power is on, **bootstrap** is the first program that executes in **ROM** or in **EEPROM**.
 2. The bootstrap program load operating system kernel from disk to memory.
 3. CPU executes kernel and start services both to system and users.
