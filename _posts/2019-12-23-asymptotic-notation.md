@@ -4,30 +4,30 @@ title: "Asymptotic Notation"
 author: "DAEUN"
 ---
 
-We can use asymtotic notation to show running times of algorithms. There are $\O$(), $\Omega$(), $\Theta$(), $\o$(), and $\omega$() to describe running times.
+We can use asymtotic notation to show running times of algorithms. There are &O;(), &Omega;(), &Theta;(), &o;(), and &omega;() to describe running times.
 
-## $\O$ - notation (Big O)
-When the highest degree of any term of function $\f(n)$ is **lower or equal** to the degree of $\g(n)$, we can say that $\f(n) \in \O(g(n))$
+## &O; - notation (Big O)
+When the highest degree of any term of function _f(n)_ is **lower or equal** to the degree of _g(n)_, we can say that _f(n)_ &isin; &O;(_g(n)_)
 
 For instance, $\O(n^{2}) = \{n^{2}, n, 1\}$
 
-* We mostly will use this notation to describe the running times of algorithms, since it indicates \$O(f(n))$ of worst case running time and it must be below \$O(f(n))$ time in other cases.
+* We mostly will use this notation to describe the running times of algorithms, since it indicates &O;(_f(n)_)$ of worst case running time and it must be below &O;(_f(n)_) time in other cases.
 
-## $\o$ - notation (o)
-This is similar to the definition of $\O$ - notation, except for the case when the highest degree of function $\f(n)$ is equal to the degree of $\g(n)$
+## &o; - notation (o)
+This is similar to the definition of $\O$ - notation, except for the case when the highest degree of function _f(n)_ is equal to the degree of _g(n)_
 
-## $\Omega$ - notation (Big Omega)
-When the highest degree of any term of function $\f(n)$ is **higher or equal** to the degree of $\g(n)$, we can say that $\f(n) \in \Omega(g(n))$
+## &Omega; - notation (Big Omega)
+When the highest degree of any term of function _f(n)_ is **higher or equal** to the degree of _g(n)_, we can say that _f(n)_ &isin; &Omega;(_g(n)_)
 
-For instance, $\Omega(n^{2}) = \{n^{2}, n^{3}, n^{4}, \dots\}$
+For instance, &Omega;(n<sub>2</sub>) = {n<sub>2</sub>, n<sub>3</sub>, n<sub>4</sub>, &‌#8901;&‌#8901;&‌#8901;}
 
-## $\omega$ - notation (omega)
-This is similar to the definition of $\Omega$ - notation, except for the case when the highest degree of function $\f(n)$ is equal to the degree of $\g(n)$
+## &omega; - notation (omega)
+This is similar to the definition of &Omega; - notation, except for the case when the highest degree of function _f(n)_ is equal to the degree of _g(n)_
 
-## $\Theta$ - notation (Big Theta)
-When the highest degree of any term of function $\f(n)$ is **equal** to the degree of $\g(n)$, we can say that $\f(n) = \Theta(g(n))$
+## &Theta; - notation (Big Theta)
+When the highest degree of any term of function _f(n)_ is **equal** to the degree of _g(n)_, we can say that _f(n) =_ &Theta;(_g(n)_)
 
-For instance, $\Theta(n^{2}) = \{2n^{2}, 3n^{2}, 4n^{2}, \dots\}$
+For instance, &Theta;(n<sup>2</sup>) = {2n<sup>2</sup>}, 3n<sup>2</sup>, 4n<sup>2</sup>, &‌#8901;&‌#8901;&‌#8901;}
 
-* $\Theta(f(n)) = \O(f(n)) \cap \Omega(f(n))$ is true.
-* $\Theta(1)$ indicate constant or constant function.
+* &Theta;(_f(n)_) = &O;(_f(n)_) &isin; &Omega;(_f(n)_) is true.
+* &Theta;(1) indicate constant or constant function.
