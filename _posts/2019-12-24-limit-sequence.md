@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iimit Sequence - Convergence and Divergence"
+title: "Limit Sequence - Convergence and Divergence"
 author: "DAEUN"
 ---
 
