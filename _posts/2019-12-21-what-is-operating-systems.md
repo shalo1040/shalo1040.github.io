@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is Operating System?"
+title: "What is Operating System? (1)"
 author: "DAEUN"
 ---
 
