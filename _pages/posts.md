@@ -33,3 +33,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[191223 - TIL](../_posts/2019-12-23-TIL.md)&nbsp;&nbsp;_December 23, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191224 - TIL](../_posts/2019-12-24-TIL.md)&nbsp;&nbsp;_December 24, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191225 - TIL](../_posts/2019-12-25-TIL.md)&nbsp;&nbsp;_December 25, 2019_<br>
+&nbsp;&nbsp;&nbsp;[191226 - TIL](../_posts/2019-12-26-TIL.md)&nbsp;&nbsp;_December 26, 2019_<br>
