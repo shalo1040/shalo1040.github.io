@@ -14,5 +14,5 @@ To make the above system, we need CPU scheduling and multiprogramming. We're goi
 We can distinguish between which program code is executing by differentiating **mode bit** between them. Mode bit identifies current mode: kernel mode(0) or user mode(1)
 When the system is executing in user mode and user wants to use a service from OS via a system call, the mode bit switches to kernel mode, which is 0, and after the system finishes operations, it switches back to user mode, which is 1.
 There are privileged instructions that only could be executed in kernel mode in order to protect OS from errant users. For example, switching kernel mode from user mode is one of privileged instructions.
-
+<br><br><br>
 reference: A. Silberschatz, P.B. Galvin, and G. Gagne, _Operating System Concepts Essentials_, 2nd ed. Hoboken, NJ, USA: Wiley, 2014.
