@@ -12,24 +12,24 @@ Problem: The stock price of a Chemical Corporation is volatile. Let's assume tha
 
 You can solve this problem using Brute-Force algorithm. This can be written as below.
 
-```c++ {.line-numbers}
+```c++
 int maxSubArray(int[] A) {
 	int sum, i, j, low, high;
-    int max = INT.MIN_VALUE;				//lowest int value in max
+    int max = INT.MIN_VALUE;			//lowest int value in max
 
 	for(i = 0; i < A.length; i++) {			//i indicates array index
-		sum = 0;							//initialize sum to 0
-		for(j = i; j < A.length; j++) {		//j indicates following indices
-			sum += A[j];					//add value to sum
-			if(sum > max) {					//if sum is greater than max
-				max = sum;					//set max to sum
+		sum = 0;			//initialize sum to 0
+		for(j = i; j < A.length; j++) {			//j indicates following indices
+			sum += A[j];			//add value to sum
+			if(sum > max) {			//if sum is greater than max
+				max = sum;			//set max to sum
 				low = i;
 				high = j;
 			}
 		}
 	}
     
-	return sum;								//return the highest contiguous sum
+	return sum;			//return the highest contiguous sum
 }
 ```
 
@@ -45,41 +45,41 @@ Divide-and-Conquer algorithm is first splitting the data to small pieces, execut
 int maxSubarray(int[] A, int low, int high) {
 	int mid, leftSum, rightSum, midSum;
 
-	if(low == high) return A[low];				//when there is 1 element
-	else {										//when there are 2 or more elements
+	if(low == high) return A[low];			//when there is 1 element
+	else {			//when there are 2 or more elements
 		mid = (low + hight)/2;
 
-		leftSum = maxSubarray(A, low, mid);					//highest sum in left
-		rightSum = maxSubarray(A, mid+1, high);				//highest sum in right
-		midSum = maxCrossingSubarray(A, low, mid, high);	//highest sum crossing middle
+		leftSum = maxSubarray(A, low, mid);			//highest sum in left
+		rightSum = maxSubarray(A, mid+1, high);			//highest sum in right
+		midSum = maxCrossingSubarray(A, low, mid, high);			//highest sum crossing middle
 
-		if(leftSum >= rightSum && leftSum >= midSum)		//leftSum is the highest among 3 values
+		if(leftSum >= rightSum && leftSum >= midSum)			//leftSum is the highest among 3 values
 			return leftSum;
-		else if(rightSum >= leftSum && rightSum >= midSum)  //rightSum is the highest among 3 values
+		else if(rightSum >= leftSum && rightSum >= midSum)			//rightSum is the highest among 3 values
 			return rightSum;
-		else 												//midSum is the highest among 3 values
+		else 			//midSum is the highest among 3 values
 			return midSum;
 	}
 }
 
 int maxCrossingSubarray(int[] A, int low, int mid, int high) {
 	int leftSum, rightSum = INT.MIN_VALUE;
-	int sum = 0;								//set the sum to 0
+	int sum = 0;			//set the sum to 0
 
 	for(int i = mid; i > low; i--) {			//starting from mid, decrease
-		sum += A[i];							//add the value to sum
+		sum += A[i];			//add the value to sum
 		if(sum > leftSum)
-			leftSum = sum;						//reset leftSum if sum is greater than leftSum
+			leftSum = sum;			//reset leftSum if sum is greater than leftSum
 	}
 
-	sum = 0;									//reset the value to 0
+	sum = 0;			//reset the value to 0
 	for(int j = mid + 1; i < high; i++) {
 		sum += A[j];
 		if(sum > rightSum)
 			rightSum = sum;
 	}
 
-	return leftSum + rightSum;					//return total sum
+	return leftSum + rightSum;			//return total sum
 }
 ```
 
