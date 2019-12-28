@@ -31,3 +31,5 @@ For instance, &Theta;(n<sup>2</sup>) = {2n<sup>2</sup>, 3n<sup>2</sup>, 4n<sup>2
 
 * &Theta;(_f(n)_) = O(_f(n)_) &isin; &Omega;(_f(n)_) is true.
 * &Theta;(1) indicate constant or constant function.
+
+reference: T.H. Cormen, C.E. Leiserson, R.L. Rivest, and C. Stein, _Introduction to Algorithms_, 3rd ed. MIT Press, 2009.

@@ -22,3 +22,5 @@ When an interrupt occurs, it saves it's current state into PCB in order to come 
 
 ### Computer System Architecture
 If there exists only one CPU, then we call its system a **Single-Processer System**. By having special-purpose processors, it helps relieving overhead of CPU. **Multiprocessor System** has two or more processors and it has three advantages. First, since there are more processers, it has increased throughput. Second, it has advantage in economy of scale. For instance, we needed 10 computers, keyboards, and mouses in single-processer system, but now a multiprocessor system with 10 processers can do the same job, which results in less hardware devices. Last, it has increased reliability. If processers runs in parallel and one of those is broken, other processers are still working so that the system doesn't halts. We call this ability **graceful degradation(우아한 퇴보)** which we also call this **fault tolerence(결함허용)**.
+
+reference: A. Silberschatz, P.B. Galvin, and G. Gagne, _Operating System Concepts Essentials_, 2nd ed. Hoboken, NJ, USA: Wiley, 2014.
