@@ -16,7 +16,7 @@ permalink: /posts/
 ## Operating Systems
 &nbsp;&nbsp;&nbsp;[What is Operating System? (1)](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_<br>
 &nbsp;&nbsp;&nbsp;[What is Operating System? (2)](../_posts/2019-12-24-what-is-operating-systems-vol2.md)&nbsp;&nbsp;_December 24, 2019_<br>
-&nbsp;&nbsp;&nbsp;[What is Operating System? (3)](../_posts/2019-12-28-what-is-operating-systems-vol3.md)&nbsp;&nbsp;_December 28, 2019_<br>
+&nbsp;&nbsp;&nbsp;[What is Operating System? (3)](../_posts/2019-12-29-what-is-operating-systems-vol3.md)&nbsp;&nbsp;_December 29, 2019_<br>
 
 <br>
 
