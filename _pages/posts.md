@@ -9,6 +9,7 @@ permalink: /posts/
 ## Algorithms
 &nbsp;&nbsp;&nbsp;[Asymptotic Notation](../_posts/2019-12-23-asymptotic-notation.md)&nbsp;&nbsp;_December 23, 2019_<br>
 &nbsp;&nbsp;&nbsp;[The Maximum-Subarray Problem](../_posts/2019-12-27-the-maximum-subarray-problem.md)&nbsp;&nbsp;_December 27, 2019_<br>
+&nbsp;&nbsp;&nbsp;[Strassen's Algorithm for Matrix Multiplication](../_posts/2019-12-29-strassen's-algorithm.md)&nbsp;&nbsp;_December 29, 2019_<br>
 
 ## Data Structures
 <br>
@@ -26,7 +27,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Inverse of Matrix](../_posts/2019-12-23-inverse-of-matrix.md)&nbsp;&nbsp;_December 23, 2019_<br>
 
 ## Calculus
-&nbsp;&nbsp;&nbsp;[Limit Sequence - Convergence and Divergence](../_posts/2019-12-24-limit-sequence.md)&nbsp;&nbsp;_December 24, 2019_<br>
+
 
 <br>
 
@@ -38,3 +39,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[191226 - TIL](../_posts/2019-12-26-TIL.md)&nbsp;&nbsp;_December 26, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191227 - TIL](../_posts/2019-12-27-TIL.md)&nbsp;&nbsp;_December 27, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191228 - TIL](../_posts/2019-12-28-TIL.md)&nbsp;&nbsp;_December 28, 2019_<br>
+&nbsp;&nbsp;&nbsp;[191229 - TIL](../_posts/2019-12-29-TIL.md)&nbsp;&nbsp;_December 29, 2019_<br>

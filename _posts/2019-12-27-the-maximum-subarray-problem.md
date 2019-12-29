@@ -13,7 +13,7 @@ Problem: The stock price of a Chemical Corporation is volatile. Let's assume tha
 You can solve this problem using Brute-Force algorithm. This can be written as below.
 
 ```c++
-int maxSubArray(int[] A) {
+int maxSubArray(int A[SIZE]) {
 	int sum, i, j, low, high;
     int max = INT.MIN_VALUE;			//lowest int value in max
 
@@ -42,7 +42,7 @@ Since two for-loops each iterate the size of the array, A.length, times. If you 
 Divide-and-Conquer algorithm is first splitting the data to small pieces, executing each pieces using recursive function, and combining them. The code is as follow:
 
 ```c++
-int maxSubarray(int[] A, int low, int high) {
+int maxSubarray(int A[SIZE], int low, int high) {
 	int mid, leftSum, rightSum, midSum;
 
 	if(low == high) return A[low];			//when there is 1 element
@@ -62,7 +62,7 @@ int maxSubarray(int[] A, int low, int high) {
 	}
 }
 
-int maxCrossingSubarray(int[] A, int low, int mid, int high) {
+int maxCrossingSubarray(int A[SIZE], int low, int mid, int high) {
 	int leftSum, rightSum = INT.MIN_VALUE;
 	int sum = 0;			//set the sum to 0
 
