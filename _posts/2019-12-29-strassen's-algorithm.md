@@ -50,9 +50,9 @@ T(n) = 8\*T(n/2) + &Theta;(n<sup>2</sup>)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>3</sup>\*T(n/2<sup>3</sup>) + &Theta;(n<sup>2</sup>/2<sup>4</sup>) + &Theta;(n<sup>2</sup>/2<sup>2</sup>) + &Theta;(n<sup>2</sup>/2<sup>0</sup>)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ...<br>
 &nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>k</sup>\*T(n/2<sup>k</sup>) + &Theta;(n<sup>2</sup>/2<sup>2(k-1)</sup>) + ... + &Theta;(n<sup>2</sup>/2<sup>2</sup>) + &Theta;(n<sup>2</sup>/2<sup>0</sup>)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>lgn</sup>\*T(1) + &Theta;(n<sup>2</sup>\*(4n/3 - 8/3n)) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (&because; n/2<sup>k</sup> = 1)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>lgn</sup>\*&Theta;(1) + &Theta;(n<sup>3</sup>) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (&because; T(n) = &Theta;(1))<br>
-&therefore; the complexity of divide-and-conquer algorithm is O(n<sup>3</sup>)
+&nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>lgn</sup>\*T(1) + &Theta;(n<sup>2</sup>\*(4n/3 - 8/3n)) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (because n/2<sup>k</sup> = 1)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; = 8<sup>lgn</sup>\*&Theta;(1) + &Theta;(n<sup>3</sup>) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (because T(n) = &Theta;(1))<br>
+Therefore, the complexity of divide-and-conquer algorithm is O(n<sup>3</sup>)
 
 <br><br>
 ### Solution3: Strassen's Algorithm
