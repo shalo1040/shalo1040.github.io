@@ -39,9 +39,9 @@ T(n) = p\*T(n/q) + f(n)
 where q >= 1 and p > 1.
 <br><br>
 
-if(degree of n<sup>log<sub>q</sub>p</sup> ** < ** degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(f(n))<br>
-else if(degree of n<sup>log<sub>q</sub>p</sup> ** > ** degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(n<sup>log<sub>q</sub>p</sup>)<br>
-else if(degree of n<sup>log<sub>q</sub>p</sup> ** == ** degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(f(n)\*log<sub>q</sub>n) || T(n) = &Theta;(n<sup>log<sub>q</sub>p</sup>\*log<sub>q</sub>n)
+if(degree of n<sup>log<sub>q</sub>p</sup> &nbsp; **<** &nbsp;  degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(f(n))<br>
+else if(degree of n<sup>log<sub>q</sub>p</sup> &nbsp; **>** &nbsp; degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(n<sup>log<sub>q</sub>p</sup>)<br>
+else if(degree of n<sup>log<sub>q</sub>p</sup> &nbsp; **==** &nbsp; degree of f(n)) &nbsp; &nbsp; T(n) = &Theta;(f(n)\*log<sub>q</sub>n) || T(n) = &Theta;(n<sup>log<sub>q</sub>p</sup>\*log<sub>q</sub>n)
 
 <br>
 * Especially you need to consider the number of accessed elements when it is the third case.
