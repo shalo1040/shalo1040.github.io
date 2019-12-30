@@ -10,6 +10,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Asymptotic Notation](../_posts/2019-12-23-asymptotic-notation.md)&nbsp;&nbsp;_December 23, 2019_<br>
 &nbsp;&nbsp;&nbsp;[The Maximum-Subarray Problem](../_posts/2019-12-27-the-maximum-subarray-problem.md)&nbsp;&nbsp;_December 27, 2019_<br>
 &nbsp;&nbsp;&nbsp;[Strassen's Algorithm for Matrix Multiplication](../_posts/2019-12-29-strassen's-algorithm.md)&nbsp;&nbsp;_December 29, 2019_<br>
+&nbsp;&nbsp;&nbsp;[Methods for Solving Recurrences](../_posts/2019-12-30-methods-for-solving-recurrences.md)&nbsp;&nbsp;_December 30, 2019_<br>
 
 ## Data Structures
 <br>
@@ -40,3 +41,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[191227 - TIL](../_posts/2019-12-27-TIL.md)&nbsp;&nbsp;_December 27, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191228 - TIL](../_posts/2019-12-28-TIL.md)&nbsp;&nbsp;_December 28, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191229 - TIL](../_posts/2019-12-29-TIL.md)&nbsp;&nbsp;_December 29, 2019_<br>
+&nbsp;&nbsp;&nbsp;[191230 - TIL](../_posts/2019-12-30-TIL.md)&nbsp;&nbsp;_December 30, 2019_<br>
