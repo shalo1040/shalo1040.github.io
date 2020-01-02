@@ -9,7 +9,7 @@ There are many sorting algorithms such as insertion, select, bubble, heap sort, 
 ### Insertion Sort
 Let's assume there is an array named _A_ where the elements are 10, 3, 5, 1, 8. To sort this array using insertion sort algorithm, we start sorting from the first element, 10. Since there is only one element we sorted so far, let's go to the next element, 3. Comparing 10 and 3, 10 should move to the next position, A[1], and 3 should move where 10 was at, A[0], because 10 is bigger than 3. Now, the order of the array _A_ will look like 3, 10, 5, 1, 8. Next, we need to start sorting again starting from A[2]. Comparing 10 and 5, 10 is bigger than 5 so that 10 moves to A[2]. Again, comparing 3 and 5, 3 is smaller than 5 so that 3 doesn't move and 5 is put into A[1]. You can repeat this steps through the end of the array and finally sort the array. The total steps are shown below.
 <br><br>
-![insertion sort](/assets/images/insertion_sort.PNG)
+![insertion sort](/assets/images/insertion_sort.png)
 <br><br>
 Insertion sort can be implemented as the code below.
 <br>

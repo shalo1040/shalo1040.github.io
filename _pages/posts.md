@@ -12,9 +12,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Strassen's Algorithm for Matrix Multiplication](../_posts/2019-12-29-strassen's-algorithm.md)&nbsp;&nbsp;_December 29, 2019_<br>
 &nbsp;&nbsp;&nbsp;[Methods for Solving Recurrences](../_posts/2019-12-30-methods-for-solving-recurrences.md)&nbsp;&nbsp;_December 30, 2019_<br>
 &nbsp;&nbsp;&nbsp;[Insertion Sort](../_posts/2020-01-01-insertion-sort.md)&nbsp;&nbsp;_January 1, 2020_<br>
-
-## Data Structures
-<br>
+&nbsp;&nbsp;&nbsp;[Selection Sort](../_posts/2020-01-02-selection-sort.md)&nbsp;&nbsp;_January 2, 2020_<br>
 
 ## Operating Systems
 &nbsp;&nbsp;&nbsp;[What is Operating System? (1)](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_<br>
@@ -28,9 +26,6 @@ permalink: /posts/
 ## Matrices
 &nbsp;&nbsp;&nbsp;[Addition, Subtraction, Multiplication of Matrix](../_posts/2019-12-21-matrix.md)&nbsp;&nbsp;_December 21, 2019_<br>
 &nbsp;&nbsp;&nbsp;[Inverse of Matrix](../_posts/2019-12-23-inverse-of-matrix.md)&nbsp;&nbsp;_December 23, 2019_<br>
-
-## Calculus
-
 
 <br>
 
@@ -46,3 +41,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[191230 - TIL](../_posts/2019-12-30-TIL.md)&nbsp;&nbsp;_December 30, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191231 - TIL](../_posts/2019-12-31-TIL.md)&nbsp;&nbsp;_December 31, 2019_<br>
 &nbsp;&nbsp;&nbsp;[200101 - TIL](../_posts/2020-01-01-TIL.md)&nbsp;&nbsp;_January 1, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200102 - TIL](../_posts/2020-01-02-TIL.md)&nbsp;&nbsp;_January 2, 2020_<br>
