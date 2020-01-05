@@ -13,6 +13,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Methods for Solving Recurrences](../_posts/2019-12-30-methods-for-solving-recurrences.md)&nbsp;&nbsp;_December 30, 2019_<br>
 &nbsp;&nbsp;&nbsp;[Insertion Sort](../_posts/2020-01-01-insertion-sort.md)&nbsp;&nbsp;_January 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Selection Sort](../_posts/2020-01-02-selection-sort.md)&nbsp;&nbsp;_January 2, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Bubble Sort](../_posts/2020-01-05-bubble-sort.md)&nbsp;&nbsp;_January 5, 2020_<br>
 
 ## Operating Systems
 &nbsp;&nbsp;&nbsp;[What is Operating System? (1)](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_<br>
@@ -44,3 +45,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200102 - TIL](../_posts/2020-01-02-TIL.md)&nbsp;&nbsp;_January 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200103 - TIL](../_posts/2020-01-03-TIL.md)&nbsp;&nbsp;_January 3, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200104 - TIL](../_posts/2020-01-04-TIL.md)&nbsp;&nbsp;_January 4, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200105 - TIL](../_posts/2020-01-05-TIL.md)&nbsp;&nbsp;_January 5, 2020_<br>
