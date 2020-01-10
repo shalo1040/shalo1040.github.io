@@ -50,3 +50,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200107 - TIL](../_posts/2020-01-07-TIL.md)&nbsp;&nbsp;_January 7, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200108 - TIL](../_posts/2020-01-08-TIL.md)&nbsp;&nbsp;_January 8, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200109 - TIL](../_posts/2020-01-09-TIL.md)&nbsp;&nbsp;_January 9, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200110 - TIL](../_posts/2020-01-10-TIL.md)&nbsp;&nbsp;_January 10, 2020_<br>
