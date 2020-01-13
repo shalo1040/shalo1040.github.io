@@ -53,3 +53,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200110 - TIL](../_posts/2020-01-10-TIL.md)&nbsp;&nbsp;_January 10, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200111 - TIL](../_posts/2020-01-11-TIL.md)&nbsp;&nbsp;_January 11, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200112 - TIL](../_posts/2020-01-12-TIL.md)&nbsp;&nbsp;_January 12, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200113 - TIL](../_posts/2020-01-13-TIL.md)&nbsp;&nbsp;_January 13, 2020_<br>
