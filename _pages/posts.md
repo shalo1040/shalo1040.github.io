@@ -63,3 +63,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200120 - TIL](../_posts/2020-01-20-TIL.md)&nbsp;&nbsp;_January 20, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200121 - TIL](../_posts/2020-01-21-TIL.md)&nbsp;&nbsp;_January 21, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200122 - TIL](../_posts/2020-01-22-TIL.md)&nbsp;&nbsp;_January 22, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200123 - TIL](../_posts/2020-01-23-TIL.md)&nbsp;&nbsp;_January 23, 2020_<br>
