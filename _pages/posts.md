@@ -14,6 +14,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Insertion Sort](../_posts/2020-01-01-insertion-sort.md)&nbsp;&nbsp;_January 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Selection Sort](../_posts/2020-01-02-selection-sort.md)&nbsp;&nbsp;_January 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Bubble Sort](../_posts/2020-01-05-bubble-sort.md)&nbsp;&nbsp;_January 5, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Merge Sort](../_posts/2020-01-24-merge-sort.md)&nbsp;&nbsp;_January 24, 2020_<br>
 
 ## Operating Systems
 &nbsp;&nbsp;&nbsp;[What is Operating System? (1)](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_<br>
@@ -64,3 +65,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200121 - TIL](../_posts/2020-01-21-TIL.md)&nbsp;&nbsp;_January 21, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200122 - TIL](../_posts/2020-01-22-TIL.md)&nbsp;&nbsp;_January 22, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200123 - TIL](../_posts/2020-01-23-TIL.md)&nbsp;&nbsp;_January 23, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200124 - TIL](../_posts/2020-01-24-TIL.md)&nbsp;&nbsp;_January 24, 2020_<br>
