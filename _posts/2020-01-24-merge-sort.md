@@ -35,11 +35,15 @@ void merge(vector<int>& A, left, middle, right) {
 	}
 
 	if(i < L.size()) {					//put the rest of the elements if there are any
-		for(; i < L.size(); i++)
+		for(; i < L.size(); i++) {
 			A.at(k) = L.at(i);
+			k++;
+		}
 	} else if(j < R.size()) {
-		for(; j <R.size(); j++)
+		for(; j <R.size(); j++) {
 			A.at(k) = R.at(j);
+			k++;
+		}
 	}
 }
 
