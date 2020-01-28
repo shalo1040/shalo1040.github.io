@@ -69,3 +69,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200125 - TIL](../_posts/2020-01-25-TIL.md)&nbsp;&nbsp;_January 25, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200126 - TIL](../_posts/2020-01-26-TIL.md)&nbsp;&nbsp;_January 26, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200127 - TIL](../_posts/2020-01-27-TIL.md)&nbsp;&nbsp;_January 27, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200128 - TIL](../_posts/2020-01-28-TIL.md)&nbsp;&nbsp;_January 28, 2020_<br>
