@@ -21,6 +21,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[What is Operating System? (2)](../_posts/2019-12-24-what-is-operating-systems-vol2.md)&nbsp;&nbsp;_December 24, 2019_<br>
 &nbsp;&nbsp;&nbsp;[What is Operating System? (3)](../_posts/2019-12-29-what-is-operating-systems-vol3.md)&nbsp;&nbsp;_December 29, 2019_<br>
 &nbsp;&nbsp;&nbsp;[System Calls](../_posts/2019-12-31-system-call.md)&nbsp;&nbsp;_December 31, 2019_<br>
+&nbsp;&nbsp;&nbsp;[Process](../_posts/2020-02-08-process.md)&nbsp;&nbsp;_February 8, 2020_<br>
 
 <br>
 
@@ -80,3 +81,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200205 - TIL](../_posts/2020-02-05-TIL.md)&nbsp;&nbsp;_February 5, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200206 - TIL](../_posts/2020-02-06-TIL.md)&nbsp;&nbsp;_February 6, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200207 - TIL](../_posts/2020-02-07-TIL.md)&nbsp;&nbsp;_February 7, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200208 - TIL](../_posts/2020-02-08-TIL.md)&nbsp;&nbsp;_February 8, 2020_<br>
