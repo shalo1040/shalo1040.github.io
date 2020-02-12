@@ -85,3 +85,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200209 - TIL](../_posts/2020-02-09-TIL.md)&nbsp;&nbsp;_February 9, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200210 - TIL](../_posts/2020-02-10-TIL.md)&nbsp;&nbsp;_February 10, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200211 - TIL](../_posts/2020-02-11-TIL.md)&nbsp;&nbsp;_February 11, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200212 - TIL](../_posts/2020-02-12-TIL.md)&nbsp;&nbsp;_February 12, 2020_<br>
