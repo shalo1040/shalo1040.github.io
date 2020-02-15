@@ -87,3 +87,5 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200211 - TIL](../_posts/2020-02-11-TIL.md)&nbsp;&nbsp;_February 11, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200212 - TIL](../_posts/2020-02-12-TIL.md)&nbsp;&nbsp;_February 12, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200213 - TIL](../_posts/2020-02-13-TIL.md)&nbsp;&nbsp;_February 13, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200214 - TIL](../_posts/2020-02-14-TIL.md)&nbsp;&nbsp;_February 14, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200215 - TIL](../_posts/2020-02-15-TIL.md)&nbsp;&nbsp;_February 15, 2020_<br>
