@@ -104,3 +104,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200228 - TIL](../_posts/2020-02-28-TIL.md)&nbsp;&nbsp;_February 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200229 - TIL](../_posts/2020-02-29-TIL.md)&nbsp;&nbsp;_February 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200301 - TIL](../_posts/2020-03-01-TIL.md)&nbsp;&nbsp;_March 1, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200302 - TIL](../_posts/2020-03-02-TIL.md)&nbsp;&nbsp;_March 2, 2020_<br>
