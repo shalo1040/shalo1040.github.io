@@ -124,3 +124,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200317 - TIL](../_posts/2020-03-17-TIL.md)&nbsp;&nbsp;_March 17, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200318 - TIL](../_posts/2020-03-18-TIL.md)&nbsp;&nbsp;_March 18, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200319 - TIL](../_posts/2020-03-19-TIL.md)&nbsp;&nbsp;_March 19, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200320 - TIL](../_posts/2020-03-20-TIL.md)&nbsp;&nbsp;_March 20, 2020_<br>
