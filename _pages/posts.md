@@ -140,3 +140,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200401 - TIL](../_posts/2020-04-01-TIL.md)&nbsp;&nbsp;_April 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200402 - TIL](../_posts/2020-04-02-TIL.md)&nbsp;&nbsp;_April 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200403 - TIL](../_posts/2020-04-03-TIL.md)&nbsp;&nbsp;_April 3, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200404 - TIL](../_posts/2020-04-04-TIL.md)&nbsp;&nbsp;_April 4, 2020_<br>
