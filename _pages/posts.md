@@ -28,6 +28,7 @@ permalink: /posts/
 
 ## Data Communications
 &nbsp;&nbsp;&nbsp;[Introduction to Data Communications](../_posts/2020-04-14-intro-to-data-com.md)&nbsp;&nbsp;_April 14, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Network Types](../_posts/2020-04-15-network-types.md)&nbsp;&nbsp;_April 15, 2020_<br>
 
 <br>
 
