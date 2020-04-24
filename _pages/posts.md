@@ -165,3 +165,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200420 - TIL](../_posts/2020-04-20-TIL.md)&nbsp;&nbsp;_April 20, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200421 - TIL](../_posts/2020-04-21-TIL.md)&nbsp;&nbsp;_April 21, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200422 - TIL](../_posts/2020-04-22-TIL.md)&nbsp;&nbsp;_April 22, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200424 - TIL](../_posts/2020-04-24-TIL.md)&nbsp;&nbsp;_April 24, 2020_<br>
