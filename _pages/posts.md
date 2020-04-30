@@ -169,3 +169,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200425 - TIL](../_posts/2020-04-25-TIL.md)&nbsp;&nbsp;_April 25, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200427 - TIL](../_posts/2020-04-27-TIL.md)&nbsp;&nbsp;_April 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200428 - TIL](../_posts/2020-04-28-TIL.md)&nbsp;&nbsp;_April 28, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200430 - TIL](../_posts/2020-04-30-TIL.md)&nbsp;&nbsp;_April 30, 2020_<br>
