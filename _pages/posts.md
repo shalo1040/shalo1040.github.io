@@ -189,4 +189,5 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200527 - TIL](../_posts/2020-05-27-TIL.md)&nbsp;&nbsp;_May 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200528 - TIL](../_posts/2020-05-28-TIL.md)&nbsp;&nbsp;_May 28, 2020_<br>
 <br>
-&nbsp;&nbsp;&nbsp;[200608 - TIL](../_posts/2020-06-08-TIL.md)&nbsp;&nbsp;_June 6, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200608 - TIL](../_posts/2020-06-08-TIL.md)&nbsp;&nbsp;_June 8, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200609 - TIL](../_posts/2020-06-09-TIL.md)&nbsp;&nbsp;_June 9, 2020_<br>
