@@ -199,3 +199,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200615 - TIL](../_posts/2020-06-15-TIL.md)&nbsp;&nbsp;_June 15, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200616 - TIL](../_posts/2020-06-16-TIL.md)&nbsp;&nbsp;_June 16, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200618 - TIL](../_posts/2020-06-18-TIL.md)&nbsp;&nbsp;_June 18, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200619 - TIL](../_posts/2020-06-19-TIL.md)&nbsp;&nbsp;_June 19, 2020_<br>
