@@ -200,4 +200,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200616 - TIL](../_posts/2020-06-16-TIL.md)&nbsp;&nbsp;_June 16, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200618 - TIL](../_posts/2020-06-18-TIL.md)&nbsp;&nbsp;_June 18, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200619 - TIL](../_posts/2020-06-19-TIL.md)&nbsp;&nbsp;_June 19, 2020_<br>
-&nbsp;&nbsp;&nbsp;[200620 - TIL](../_posts/2020-06-20-TIL.md)&nbsp;&nbsp;_June 20, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200626 - TIL](../_posts/2020-06-26-TIL.md)&nbsp;&nbsp;_June 26, 2020_<br>
