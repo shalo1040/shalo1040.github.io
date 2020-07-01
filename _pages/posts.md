@@ -204,3 +204,5 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200627 - TIL](../_posts/2020-06-27-TIL.md)&nbsp;&nbsp;_June 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200628 - TIL](../_posts/2020-06-28-TIL.md)&nbsp;&nbsp;_June 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200630 - TIL](../_posts/2020-06-30-TIL.md)&nbsp;&nbsp;_June 30, 2020_<br>
+<br>
+&nbsp;&nbsp;&nbsp;[200701 - TIL](../_posts/2020-07-01-TIL.md)&nbsp;&nbsp;_July 1, 2020_<br>
