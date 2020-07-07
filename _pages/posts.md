@@ -210,3 +210,4 @@ permalink: /posts/
 <br>
 &nbsp;&nbsp;&nbsp;[200701 - TIL](../_posts/2020-07-01-TIL.md)&nbsp;&nbsp;_July 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200704 - TIL](../_posts/2020-07-04-TIL.md)&nbsp;&nbsp;_July 4, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200707 - TIL](../_posts/2020-07-07-TIL.md)&nbsp;&nbsp;_July 7, 2020_<br>
