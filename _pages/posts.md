@@ -221,3 +221,4 @@ permalink: /posts/
 <br>
 &nbsp;&nbsp;&nbsp;[200816 - TIL](../_posts/2020-08-16-TIL.md)&nbsp;&nbsp;_August 16, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200817 - TIL](../_posts/2020-08-17-TIL.md)&nbsp;&nbsp;_August 17, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200818 - TIL](../_posts/2020-08-18-TIL.md)&nbsp;&nbsp;_August 18, 2020_<br>
