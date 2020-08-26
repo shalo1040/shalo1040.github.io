@@ -43,6 +43,10 @@ permalink: /posts/
 <br>
 
 # TIL(Today I Learned)
+
+<details>
+	<summary> December, 2019 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[191222 - TIL](../_posts/2019-12-22-TIL.md)&nbsp;&nbsp;_December 22, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191223 - TIL](../_posts/2019-12-23-TIL.md)&nbsp;&nbsp;_December 23, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191224 - TIL](../_posts/2019-12-24-TIL.md)&nbsp;&nbsp;_December 24, 2019_<br>
@@ -53,7 +57,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[191229 - TIL](../_posts/2019-12-29-TIL.md)&nbsp;&nbsp;_December 29, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191230 - TIL](../_posts/2019-12-30-TIL.md)&nbsp;&nbsp;_December 30, 2019_<br>
 &nbsp;&nbsp;&nbsp;[191231 - TIL](../_posts/2019-12-31-TIL.md)&nbsp;&nbsp;_December 31, 2019_<br>
-<br>
+</details>
+
+<details>
+	<summary> January, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200101 - TIL](../_posts/2020-01-01-TIL.md)&nbsp;&nbsp;_January 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200102 - TIL](../_posts/2020-01-02-TIL.md)&nbsp;&nbsp;_January 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200103 - TIL](../_posts/2020-01-03-TIL.md)&nbsp;&nbsp;_January 3, 2020_<br>
@@ -85,7 +93,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200129 - TIL](../_posts/2020-01-29-TIL.md)&nbsp;&nbsp;_January 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200130 - TIL](../_posts/2020-01-30-TIL.md)&nbsp;&nbsp;_January 30, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200131 - TIL](../_posts/2020-01-31-TIL.md)&nbsp;&nbsp;_January 31, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> February, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200201 - TIL](../_posts/2020-02-01-TIL.md)&nbsp;&nbsp;_February 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200202 - TIL](../_posts/2020-02-02-TIL.md)&nbsp;&nbsp;_February 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200203 - TIL](../_posts/2020-02-03-TIL.md)&nbsp;&nbsp;_February 3, 2020_<br>
@@ -115,7 +127,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200227 - TIL](../_posts/2020-02-27-TIL.md)&nbsp;&nbsp;_February 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200228 - TIL](../_posts/2020-02-28-TIL.md)&nbsp;&nbsp;_February 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200229 - TIL](../_posts/2020-02-29-TIL.md)&nbsp;&nbsp;_February 29, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> March, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200301 - TIL](../_posts/2020-03-01-TIL.md)&nbsp;&nbsp;_March 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200302 - TIL](../_posts/2020-03-02-TIL.md)&nbsp;&nbsp;_March 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200303 - TIL](../_posts/2020-03-03-TIL.md)&nbsp;&nbsp;_March 3, 2020_<br>
@@ -146,7 +162,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200329 - TIL](../_posts/2020-03-29-TIL.md)&nbsp;&nbsp;_March 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200330 - TIL](../_posts/2020-03-30-TIL.md)&nbsp;&nbsp;_March 30, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200331 - TIL](../_posts/2020-03-31-TIL.md)&nbsp;&nbsp;_March 31, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> April, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200401 - TIL](../_posts/2020-04-01-TIL.md)&nbsp;&nbsp;_April 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200402 - TIL](../_posts/2020-04-02-TIL.md)&nbsp;&nbsp;_April 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200403 - TIL](../_posts/2020-04-03-TIL.md)&nbsp;&nbsp;_April 3, 2020_<br>
@@ -173,7 +193,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200427 - TIL](../_posts/2020-04-27-TIL.md)&nbsp;&nbsp;_April 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200428 - TIL](../_posts/2020-04-28-TIL.md)&nbsp;&nbsp;_April 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200430 - TIL](../_posts/2020-04-30-TIL.md)&nbsp;&nbsp;_April 30, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> May, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200501 - TIL](../_posts/2020-05-01-TIL.md)&nbsp;&nbsp;_May 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200505 - TIL](../_posts/2020-05-05-TIL.md)&nbsp;&nbsp;_May 5, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200506 - TIL](../_posts/2020-05-06-TIL.md)&nbsp;&nbsp;_May 6, 2020_<br>
@@ -191,7 +215,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200526 - TIL](../_posts/2020-05-26-TIL.md)&nbsp;&nbsp;_May 26, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200527 - TIL](../_posts/2020-05-27-TIL.md)&nbsp;&nbsp;_May 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200528 - TIL](../_posts/2020-05-28-TIL.md)&nbsp;&nbsp;_May 28, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> June, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200608 - TIL](../_posts/2020-06-08-TIL.md)&nbsp;&nbsp;_June 8, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200609 - TIL](../_posts/2020-06-09-TIL.md)&nbsp;&nbsp;_June 9, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200610 - TIL](../_posts/2020-06-10-TIL.md)&nbsp;&nbsp;_June 10, 2020_<br>
@@ -207,7 +235,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200627 - TIL](../_posts/2020-06-27-TIL.md)&nbsp;&nbsp;_June 27, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200628 - TIL](../_posts/2020-06-28-TIL.md)&nbsp;&nbsp;_June 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200630 - TIL](../_posts/2020-06-30-TIL.md)&nbsp;&nbsp;_June 30, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> July, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200701 - TIL](../_posts/2020-07-01-TIL.md)&nbsp;&nbsp;_July 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200704 - TIL](../_posts/2020-07-04-TIL.md)&nbsp;&nbsp;_July 4, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200707 - TIL](../_posts/2020-07-07-TIL.md)&nbsp;&nbsp;_July 7, 2020_<br>
@@ -218,7 +250,11 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200728 - TIL](../_posts/2020-07-28-TIL.md)&nbsp;&nbsp;_July 28, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200729 - TIL](../_posts/2020-07-29-TIL.md)&nbsp;&nbsp;_July 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200730 - TIL](../_posts/2020-07-30-TIL.md)&nbsp;&nbsp;_July 30, 2020_<br>
-<br>
+</details>
+
+<details>
+	<summary> August, 2020 </summary> <br>
+
 &nbsp;&nbsp;&nbsp;[200816 - TIL](../_posts/2020-08-16-TIL.md)&nbsp;&nbsp;_August 16, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200817 - TIL](../_posts/2020-08-17-TIL.md)&nbsp;&nbsp;_August 17, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200818 - TIL](../_posts/2020-08-18-TIL.md)&nbsp;&nbsp;_August 18, 2020_<br>
@@ -227,3 +263,4 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200822 - TIL](../_posts/2020-08-22-TIL.md)&nbsp;&nbsp;_August 22, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200824 - TIL](../_posts/2020-08-24-TIL.md)&nbsp;&nbsp;_August 24, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200825 - TIL](../_posts/2020-08-25-TIL.md)&nbsp;&nbsp;_August 25, 2020_<br>
+</details>
