@@ -263,4 +263,5 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[200822 - TIL](../_posts/2020-08-22-TIL.md)&nbsp;&nbsp;_August 22, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200824 - TIL](../_posts/2020-08-24-TIL.md)&nbsp;&nbsp;_August 24, 2020_<br>
 &nbsp;&nbsp;&nbsp;[200825 - TIL](../_posts/2020-08-25-TIL.md)&nbsp;&nbsp;_August 25, 2020_<br>
+&nbsp;&nbsp;&nbsp;[200826 - TIL](../_posts/2020-08-26-TIL.md)&nbsp;&nbsp;_August 26, 2020_<br>
 </details>
