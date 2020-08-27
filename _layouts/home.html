@@ -4,11 +4,11 @@ layout: default
 
 <div class="catalogue">
   {% for post in paginator.posts %}
-    {% if "TIL" not in post.title %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
         <div>
           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
           <h1 class="catalogue-title">{{ post.title }}</h1>
+          <h3>{{ post.title.find("TIL") }}</h3>
           <div class="catalogue-line"></div>
 
           <p>
@@ -17,7 +17,6 @@ layout: default
 
         </div>
       </a>
-    {% endif %}
   {% endfor %}
 </div>
 
