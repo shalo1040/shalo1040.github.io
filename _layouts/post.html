@@ -28,7 +28,12 @@ layout: default
 {% endif %}
 
 <div class="pagination">
+  {% if page.next.url %}
+    {% continue %}
+  {% endif %}
+  {% if page.previous.url %}
+    {% continue %}
+  {% endif %}
 
   <a href="#" class="top">Top</a>
-  
 </div>
