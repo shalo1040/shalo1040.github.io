@@ -8,7 +8,10 @@ layout: default
         <div>
           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
           <h1 class="catalogue-title">{{ post.title }}</h1>
-          <h3>{{ post.title.find("TIL") }}</h3>
+          {% if post.title contains 'TIL' %} YES
+          {% else %} NO
+          {% endif %}
+          <br>
           <div class="catalogue-line"></div>
 
           <p>
