@@ -4,7 +4,7 @@ layout: default
 
 <div class="catalogue">
   {% for post in paginator.posts %}
-    {% if post.title.find("TIL") == -1 %}
+    {% if "TIL" not in post.title %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
         <div>
           <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
