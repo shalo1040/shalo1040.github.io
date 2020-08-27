@@ -46,7 +46,7 @@ permalink: /posts/
 
 <details>
 	<summary> December, 2019 </summary> <br>
-<a href="/assets/2019-12-22-TIL.md">191222 - TIL</a> <i>December 22, 2019</i> <br>
+<a href="/TIL/2019-12-22/TIL.md">191222 - TIL</a> <i>December 22, 2019</i> <br>
 <a href="/2019-12-23/TIL">191223 - TIL</a> <i>December 23, 2019</i> <br>
 <a href="/2019-12-24/TIL">191224 - TIL</a> <i>December 24, 2019</i> <br>
 <a href="/2019-12-25/TIL">191225 - TIL</a> <i>December 25, 2019</i> <br>
