@@ -5,7 +5,7 @@ author: "DAEUN"
 permalink: /posts/
 ---
 
-# Computer Sceience
+# Computer Science
 ## Algorithms
 &nbsp;&nbsp;&nbsp;[Asymptotic Notation](../_posts/2019-12-23-asymptotic-notation.md)&nbsp;&nbsp;_December 23, 2019_<br>
 &nbsp;&nbsp;&nbsp;[The Maximum-Subarray Problem](../_posts/2019-12-27-the-maximum-subarray-problem.md)&nbsp;&nbsp;_December 27, 2019_<br>
