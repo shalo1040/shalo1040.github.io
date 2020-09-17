@@ -30,6 +30,9 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Introduction to Data Communications](../_posts/2020-04-14-intro-to-data-com.md)&nbsp;&nbsp;_April 14, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Network Types](../_posts/2020-04-15-network-types.md)&nbsp;&nbsp;_April 15, 2020_<br>
 
+## Databases
+&nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
+
 ## Android
 &nbsp;&nbsp;&nbsp;[Animation](../_posts/2020-07-04-animation.md)&nbsp;&nbsp;_July 4, 2020_<br>
 
