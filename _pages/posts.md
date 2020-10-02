@@ -277,3 +277,8 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;<a href="/2020-09-29/TIL">200929 - TIL</a>&nbsp;&nbsp;<i>September 29, 2020</i> <br>
 &nbsp;&nbsp;&nbsp;<a href="/2020-09-30/TIL">200930 - TIL</a>&nbsp;&nbsp;<i>September 30, 2020</i> <br>
 </details><br>
+
+<details>
+	<summary> October, 2020 </summary> <br>
+&nbsp;&nbsp;&nbsp;<a href="/2020-10-02/TIL">201002 - TIL</a>&nbsp;&nbsp;<i>October 2, 2020</i> <br>
+</details><br>
