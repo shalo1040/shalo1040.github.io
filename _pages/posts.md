@@ -31,7 +31,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Introduction to Data Communications](../_posts/2020-04-14-intro-to-data-com.md)&nbsp;&nbsp;_April 14, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Network Types](../_posts/2020-04-15-network-types.md)&nbsp;&nbsp;_April 15, 2020_<br>
 &nbsp;&nbsp;&nbsp;[정보 전송 방식: 회선교환 vs 패킷교환](../_posts/2020-09-23-switching.md)&nbsp;&nbsp;_September 23, 2020_<br>
-&nbsp;&nbsp;&nbsp;[네트워크 문제점과 성능](../_posts/2020-10-23-network-problems.md)&nbsp;&nbsp;_October 23, 2020_<br>
+&nbsp;&nbsp;&nbsp;[네트워크 문제점과 성능](../_posts/2020-10-22-network-problems.md)&nbsp;&nbsp;_October 22, 2020_<br>
 &nbsp;&nbsp;&nbsp;[네트워크 모델](../_posts/2020-10-23-network-model.md)&nbsp;&nbsp;_October 23, 2020_<br>
 
 ## Databases

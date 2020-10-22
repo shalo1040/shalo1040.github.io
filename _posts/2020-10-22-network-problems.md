@@ -30,9 +30,9 @@ author: "DAEUN"
 
 **queueing delay**: 전송 대기 큐(output queue)에서 기다리는 시간. 라우터의 혼잡도에 따라 영향을 받는다.
 
-**transmission delay**: 패킷을 전송하는 데 걸리는 시간. 패킷의 길이가 길수록 전송에 더 많은 시간이 걸린다.   ${packet-length \above{1pt} link-bandwidth}$
+**transmission delay**: 패킷을 전송하는 데 걸리는 시간. 패킷의 길이가 길수록 전송에 더 많은 시간이 걸린다. <br> (packet-length) / (link-bandwidth)
 
-**propagation delay**: 노드에서 노드로 이동하는 데 걸리는 시간. 링크의 길이가 길수록 시간은 오래 걸린다. 링크의 종류에 따라서도 이동 속도가 달라진다. (ex. 구리선 > 광선)  ${length-of-physical-link \above{1pt} propagation-speed}$
+**propagation delay**: 노드에서 노드로 이동하는 데 걸리는 시간. 링크의 길이가 길수록 시간은 오래 걸린다. 링크의 종류에 따라서도 이동 속도가 달라진다. (ex. 구리선 > 광선)  <br> (length-of-physical-link) / (propagation-speed)
 
 <br>
 

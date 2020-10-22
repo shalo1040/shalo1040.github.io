@@ -4,7 +4,7 @@ title: "네트워크 모델"
 author: "DAEUN"
 ---
 
-![계층적 통신](/assets/images/communications.png)
+![계층적 통신](/assets/images/communications.PNG)
 
 각 계층을 지나며 헤더를 추가하는 과정을 **캡슐화**라고한다.
 
