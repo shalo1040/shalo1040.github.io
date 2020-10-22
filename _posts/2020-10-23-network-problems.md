@@ -4,11 +4,15 @@ title: "네트워크 문제점과 성능"
 author: "DAEUN"
 ---
 
+# 네트워크 문제점
+
+---
+
 <br>
 
 ## 패킷 손실(Packet Loss)
 
-![packet loss](/assets/images/packet_loss.png)
+![packet loss](/assets/images/packet_loss.PNG)
 
 라우터의 버퍼(큐)는 유한해서 버퍼가 모두 차 있을 때 새로운 패킷은 들어오지 못하고 손실된다. (Packet Error Rate, PER) 데이터가 손실되면 재전송을 하며 그만큼 시간이 지연된다.
 
@@ -16,7 +20,7 @@ author: "DAEUN"
 
 ## 지연(Delay)
 
-![delay](/assets/images/delay.png)
+![delay](/assets/images/delay.PNG)
 
 <br>
 
@@ -42,11 +46,13 @@ author: "DAEUN"
 
 ---
 
+<br>
+
 처리량은 높고 지연은 낮을수록 효율적인 네트워크이다.
 
 - **처리량(throughput)** : 일정한 시간동안 처리한 일의 양
 
-![throughput](/assets/images/throughput.png)
+![throughput](/assets/images/throughput.PNG)
 
 <br>
 
