@@ -293,4 +293,5 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;<a href="/2020-10-11/TIL">201011 - TIL</a>&nbsp;&nbsp;<i>October 11, 2020</i> <br>
 &nbsp;&nbsp;&nbsp;<a href="/2020-10-12/TIL">201012 - TIL</a>&nbsp;&nbsp;<i>October 12, 2020</i> <br>
 &nbsp;&nbsp;&nbsp;<a href="/2020-10-14/TIL">201014 - TIL</a>&nbsp;&nbsp;<i>October 14, 2020</i> <br>
+&nbsp;&nbsp;&nbsp;<a href="/2020-10-24/TIL">201024 - TIL</a>&nbsp;&nbsp;<i>October 24, 2020</i> <br>
 </details><br>
