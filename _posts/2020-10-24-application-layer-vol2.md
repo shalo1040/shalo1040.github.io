@@ -37,4 +37,4 @@ author: "DAEUN"
 - 데이터 손실, 복구 등에 관여하지 않음
     - 하위 계층에서 해야할 일(TCP의 일)
     - 하위 계층으로부터 완벽한 데이터를 가져왔다는 전제하에 작업
-- 연결 방법: [non-persistent HTTP, persistent HTTP](/2020-10-24-application-layer-vol3.md)
+- 연결 방법: [non-persistent HTTP, persistent HTTP](/2020-10-24/application-layer-vol3.md)
