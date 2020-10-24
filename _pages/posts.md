@@ -34,6 +34,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[네트워크 문제점과 성능](../_posts/2020-10-22-network-problems.md)&nbsp;&nbsp;_October 22, 2020_<br>
 &nbsp;&nbsp;&nbsp;[네트워크 모델](../_posts/2020-10-23-network-model.md)&nbsp;&nbsp;_October 23, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Application Architecture: Client-Server, P2P](../_posts/2020-10-24-application-layer-vol1.md)&nbsp;&nbsp;_October 24, 2020_<br>
+&nbsp;&nbsp;&nbsp;[응용 계층의 프로토콜 : HTTP](../_posts/2020-10-24-application-layer-vol2.md)&nbsp;&nbsp;_October 24, 2020_<br>
 
 ## Databases
 &nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
