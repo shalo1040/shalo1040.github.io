@@ -9,6 +9,8 @@ author: "DAEUN"
     - 1990년대 중반: WWW(World Wide Web), P2P(Peer to Peer)
     - 2000년대 이후: VoIP(Voice over IP), skype, YouTube, Netflix, SNS
 
+<br><br>
+
 ## Application Architecture : Client-Server, P2P
 
 ---
@@ -19,7 +21,7 @@ author: "DAEUN"
 
 ### Client-Server
 
-![client_server](/assets/images/client_server.PNG)
+<img href="/assets/images/client_server.PNG" width="400">
 
 <br>
 
@@ -41,7 +43,7 @@ author: "DAEUN"
 
 ### P2P(Peer to Peer)
 
-![peer_to_peer](/assets/images/peer_to_peer.PNG)
+<img href="/assets/images/peer_to_peer.PNG" width="400">
 
 <br>
 
