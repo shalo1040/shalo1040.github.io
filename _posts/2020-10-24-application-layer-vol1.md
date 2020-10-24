@@ -4,24 +4,13 @@ title: "Application Architecture: Client-Server, P2P"
 author: "DAEUN"
 ---
 
-- killer application의 등장으로 발전해온 인터넷
-    - 1970년대 ~ 1980년대: 텍스트 기반 이메일, 파일 전송 등
-    - 1990년대 중반: WWW(World Wide Web), P2P(Peer to Peer)
-    - 2000년대 이후: VoIP(Voice over IP), skype, YouTube, Netflix, SNS
-
-<br><br>
-
-## Application Architecture : Client-Server, P2P
-
----
-
 응용서비스 개발자: 네트워크 구조(network architecture) 신경쓰지 않아도 되지만, **응용서비스의 구조(application architecture)** 결정해야함
 
 <br>
 
 ### Client-Server
 
-<img href="/assets/images/client_server.PNG" width="400">
+<img src="/assets/images/client_server.PNG" width="400">
 
 <br>
 
@@ -43,7 +32,7 @@ author: "DAEUN"
 
 ### P2P(Peer to Peer)
 
-<img href="/assets/images/peer_to_peer.PNG" width="400">
+<img src="/assets/images/peer_to_peer.PNG" width="400">
 
 <br>
 
