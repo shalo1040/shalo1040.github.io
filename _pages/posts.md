@@ -36,7 +36,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Application Architecture: Client-Server, P2P](../_posts/2020-10-24-application-layer-vol1.md)&nbsp;&nbsp;_October 24, 2020_<br>
 &nbsp;&nbsp;&nbsp;[응용 계층의 프로토콜 : HTTP](../_posts/2020-10-24-application-layer-vol2.md)&nbsp;&nbsp;_October 24, 2020_<br>
 &nbsp;&nbsp;&nbsp;[non-persistent HTTP vs persistent HTTP](../_posts/2020-10-24-application-layer-vol3.md)&nbsp;&nbsp;_October 24, 2020_<br>
-&nbsp;&nbsp;&nbsp;[HTTP 메시지 구조](../_posts/2020-10-25-application-layer-vol4.md)&nbsp;&nbsp;_October 24, 2020_<br>
+&nbsp;&nbsp;&nbsp;[HTTP 메시지 구조](../_posts/2020-10-25-application-layer-vol4.md)&nbsp;&nbsp;_October 25, 2020_<br>
 
 ## Databases
 &nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
