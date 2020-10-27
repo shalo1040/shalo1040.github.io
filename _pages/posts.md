@@ -26,6 +26,7 @@ permalink: /posts/
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>
+&nbsp;&nbsp;&nbsp;[MVC 패턴](../_posts/2020-10-28-mvc.md)&nbsp;&nbsp;_October 28, 2020_<br>
 
 ## Data Communications
 &nbsp;&nbsp;&nbsp;[Introduction to Data Communications](../_posts/2020-04-14-intro-to-data-com.md)&nbsp;&nbsp;_April 14, 2020_<br>
