@@ -1,6 +1,6 @@
 # Site settings
 theme:          tale
-title:          DAEUN's Development Diary
+title:          DAEUN's notes
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://shalo1040.github.io"
 
@@ -11,7 +11,7 @@ google_analytics: UA—XXXXXXXX-X
 author:
   name:         DAEUN
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        shalo1040@gmail.com
 
 # Build settings
 markdown:       kramdown

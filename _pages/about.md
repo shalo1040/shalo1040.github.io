@@ -5,8 +5,6 @@ author: "DAEUN"
 permalink: /about/
 ---
 
-blank
-<!-- Hi, I am 
-
-
-Thanks for reading! -->
+<a href="https://github.com/shalo1040">
+	<img src="/assets/images/github-mark.png" width="50">
+</a>
