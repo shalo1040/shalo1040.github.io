@@ -6,7 +6,7 @@ author : "DAEUN"
 
 ### Many-to-One
 
-<img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg" width="700">
+<img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg" width="900">
 
 <br>
 
@@ -20,7 +20,7 @@ author : "DAEUN"
 
 ### One-to-One
 
-<img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg" width="600">
+<img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg" width="800">
 
 <br>
 
