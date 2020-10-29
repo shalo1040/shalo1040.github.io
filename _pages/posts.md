@@ -25,6 +25,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Program vs Process vs Thread](../_posts/2020-10-23-process-and-thread.md)&nbsp;&nbsp;_October 23, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Process Scheduling](../_posts/2020-10-29-1-process-scheduling.md)&nbsp;&nbsp;_October 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Process Creation](../_posts/2020-10-29-2-process-creation.md)&nbsp;&nbsp;_October 29, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Process Termination](../_posts/2020-10-29-3-process-termination.md)&nbsp;&nbsp;_October 29, 2020_<br>
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>

@@ -4,7 +4,7 @@ title : "Process Creation"
 author : "DAEUN"
 ---
 
-![process tree](https://media.cheggcdn.com/media%2Fb32%2Fb322e832-85cb-4907-ade0-d0c8abbb26c8%2FphpDveJTB.png)
+<img src="https://media.cheggcdn.com/media%2Fb32%2Fb322e832-85cb-4907-ade0-d0c8abbb26c8%2FphpDveJTB.png" width="700">
 
 <br>
 
@@ -13,6 +13,7 @@ author : "DAEUN"
 - 각 프로세스는 process identifier(pid)를 가진다.
 	- integer value
 	- 프로세스 관리 및 접근을 위한 식별자
+
 ```
 - 자식 프로세스 생성 시,
 	- 자원
@@ -64,6 +65,6 @@ author : "DAEUN"
 - 주소 : (1)자식은 부모의 주소 공간을 복제
 - WaitForSingleObject() : UNIX의 wait()
 
-<br><br><br>
+<br><br>
 
 reference: A. Silberschatz, P.B. Galvin, and G. Gagne, _Operating System Concepts Essentials_, 2nd ed. Hoboken, NJ, USA: Wiley, 2014.
