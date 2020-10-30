@@ -14,13 +14,13 @@ author : "DAEUN"
 
 ### 스레드 라이브러리 구현 방법 2가지
 
-	1. user 영역에 구현
-		- 커널 관여 x
-		- 라이브러리 함수 호출 -> 지역 함수 호출
+1. user 영역에 구현
+	- 커널 관여 x
+	- 라이브러리 함수 호출 -> 지역 함수 호출
 
-	2. kernel 영역에 구현
-		- 커널 관여 o
-		- 라이브러리 함수 호출 -> 시스템 콜 호출
+2. kernel 영역에 구현
+	- 커널 관여 o
+	- 라이브러리 함수 호출 -> 시스템 콜 호출
 
 <br>
 
@@ -46,8 +46,8 @@ author : "DAEUN"
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Pthreads | Windows | Java |
 | :---: | :---: | :---: | :---: |
-| 스레드 수준 | user-level 또는 kernel-level | kernel-level | kernel-level<br>(JVM은 host 운영체제 위에서 동작하기 때문에 host system의 스레드 라이브러리로 구현) |
-| 자식 스레드 생성 | pthread_create() | CreateThread() | start() |
-| 자식 스레드 기다림 | pthread_join() | WaitForSingleObject() 또는 WaitForMultipleObjects() | join() |
-| 동기/비동기 | 동기 | 동기 | 동기 |
+| thread level | user-level 또는 kernel-level | kernel-level | kernel-level<br>(JVM은 host 운영체제 위에서 동작하기 때문에 host system의 스레드 라이브러리로 구현) |
+| thread creation | pthread_create() | CreateThread() | start() |
+| wait child | pthread_join() | WaitForSingleObject() 또는 WaitForMultipleObjects() | join() |
+| 동기/<br>비동기 | 동기 | 동기 | 동기 |
 | 비고 | POSIX 표준 | | |
