@@ -10,7 +10,7 @@ author : "DAEUN"
 
 - 생산자 소비자 문제
 	- buffer의 공간을 모두 활용하기 위해 몇 개의 공간이 찼는지를 세는 counter 변수를 둘 수 있다. But..
-	- counter++, counter--
+	- counter++, counter---
 		- 각각 저급 언어로 3개의 일처리 필요
 			1. register = counter
 			2. register = register + 1
@@ -21,7 +21,7 @@ author : "DAEUN"
 
 <br>
 
-### Critical Section
+## Critical Section
 
 ![critical section](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_01_CriticalSection.jpg)
 
@@ -44,11 +44,13 @@ author : "DAEUN"
 
 ## Peterson's Solution
 
-- 두 개의 프로세스 사이 임계구역 문제를 소프트웨어적으로 해결하는 방법
+- **두 개의 프로세스** 사이 임계구역 문제를 소프트웨어적으로 해결하는 방법
+- 임계구역 문제 해결 조건 만족
+- 단, 기계어로 변형 시 완벽하다는 보장은 없음
 
 ![peterson's solution](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_02_Petersons.jpg)
 
-👆 P<sub>i</sub>의 코드
+<p text-align="center">👆 P<sub>i</sub>의 코드</p>
 
 <br>
 
@@ -72,9 +74,11 @@ bool flag[2] : 어떤 프로세스가 임계구역에 진입할 준비가 되었
 
 	- 따라서, 상호 배제(mutual exclusion) 만족 보장
 		- 프로세스 P<sub>i</sub>가 임계구역에 진입하려할 때, 아래 조건 만족하면 임계구역 진입
-			- flag[j] == false || turn == i
+			- flag[j] == false 또는 turn == i
 		- flag[j] == true && turn == i 일 때,
 			- P<sub>i</sub>가 임계구역을 빠져나온 후 turn = j 를 실행하면 비로소 P<sub>j</sub>는 임계구역 실행 가능해짐
+
+<br>
 
 - 2, 3번 조건 만족
 	- P<sub>i</sub>가 임계구역에 진입하려할 때,
