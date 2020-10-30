@@ -26,8 +26,9 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Process Scheduling](../_posts/2020-10-29-1-process-scheduling.md)&nbsp;&nbsp;_October 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Process Creation](../_posts/2020-10-29-2-process-creation.md)&nbsp;&nbsp;_October 29, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Process Termination](../_posts/2020-10-29-3-process-termination.md)&nbsp;&nbsp;_October 29, 2020_<br>
-&nbsp;&nbsp;&nbsp;[Multithreading Models](../_posts/2020-10-30-multithreading-models.md)&nbsp;&nbsp;_October 30, 2020_<br>
-&nbsp;&nbsp;&nbsp;[Thread Libraries](../_posts/2020-10-30-thread-libraries.md)&nbsp;&nbsp;_October 30, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Multithreading Models](../_posts/2020-10-30-1-multithreading-models.md)&nbsp;&nbsp;_October 30, 2020_<br>
+&nbsp;&nbsp;&nbsp;[Thread Libraries](../_posts/2020-10-30-2-thread-libraries.md)&nbsp;&nbsp;_October 30, 2020_<br>
+&nbsp;&nbsp;&nbsp;[프로세스 동기화(1) : 임계구역, Peterson's Solution](../_posts/2020-10-30-3-process-sync.md)&nbsp;&nbsp;_October 30, 2020_<br>
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>
