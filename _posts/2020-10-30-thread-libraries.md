@@ -8,7 +8,7 @@ author : "DAEUN"
 
 개발자에게 스레드를 생성하고 관리할 수 있도록 하는 API를 제공한다.
 
-&nbsp;&nbsp;&nbspl - implementation이 아닌, specification for thread behavior
+&nbsp;&nbsp;&nbsp; - implementation이 아닌, specification for thread behavior
 
 <br>
 
@@ -44,8 +44,8 @@ author : "DAEUN"
 
 ### 대표적 스레드 라이브러리 : POSIX Pthreads, Windows, Java
 
-|  | Pthreads | Windows | Java |
-| --- | --- | --- | --- |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Pthreads | Windows | Java |
+| :---: | :---: | :---: | :---: |
 | 스레드 수준 | user-level 또는 kernel-level | kernel-level | kernel-level<br>(JVM은 host 운영체제 위에서 동작하기 때문에 host system의 스레드 라이브러리로 구현) |
 | 자식 스레드 생성 | pthread_create() | CreateThread() | start() |
 | 자식 스레드 기다림 | pthread_join() | WaitForSingleObject() 또는 WaitForMultipleObjects() | join() |
