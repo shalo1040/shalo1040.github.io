@@ -30,6 +30,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Thread Libraries](../_posts/2020-10-30-2-thread-libraries.md)&nbsp;&nbsp;_October 30, 2020_<br>
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(1) : 임계구역, Peterson's Solution](../_posts/2020-10-30-3-process-sync.md)&nbsp;&nbsp;_October 30, 2020_<br>
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(2) : Hardware](../_posts/2020-10-31-1-sync-hardware.md)&nbsp;&nbsp;_October 31, 2020_<br>
+&nbsp;&nbsp;&nbsp;[프로세스 동기화(3) : Mutex Lock](../_posts/2020-10-31-2-mutex-lock.md)&nbsp;&nbsp;_October 31, 2020_<br>
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>
