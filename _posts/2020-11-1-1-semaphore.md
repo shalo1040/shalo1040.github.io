@@ -1,0 +1,97 @@
+---
+layout : post
+title: "프로세스 동기화(4) : Semaphore"
+author: "DAEUN"
+---
+
+### 세마포
+
+- mutex lock의 한계
+	- 이진 세마포로 전교하지 못함
+	- 동기화 적용을 못하는 경우도 있음
+
+=> 보다 정교한 세마포 등장
+
+- 세마포 S는 정수형 변수
+- wait()과 signal()의 원자적 실행으로 세마포 접근
+
+<br>
+
+### 세마포 종류
+
+- 이진 세마포(Binary Semaphore)
+	- 세마포 값으로 0과 1만 갖음
+	- mutex lock
+
+- 카운팅 세마포(Counting Semaphore)
+	- interger 범위 내에서 제한 없는 세마포 값
+	- 사용 가능한 자원의 개수로 초기화
+	- 세마포 값이 0이면 모든 자원이 사용중이라는 의미
+
+<br>
+
+### wait()과 signal()
+
+<img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Semaphores.jpg" width="300">
+
+<br>
+
+- wait()과 signal()은 원자적 실행
+- 하지만, 여전히 wait()에서의 **busy waiting** 존재
+
+=> 자신을 block()시켜 바쁜 대기 대신 waiting queue에서 기다리도록 변경!
+
+<br>
+
+![semaphore](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Semaphore2.jpg)
+
+<br>
+
+- 세마포 구조체
+	- value의 절댓값이 곧 임계구역 진입을 기다리고 있는 프로세스 개수
+	- list에는 대기 중인 프로세스의 PCB 리스트를 가리킴
+		- FIFO 큐로 구현 -> 한정된 대기 조건 만족
+		- LIFO 스택으로 구현 -> 한정된 대기 조건 만족 x -> 기아(starvation) 발생
+
+<br>
+
+- wait()
+	- 임계구역에 진입할 수 없으면 busy waiting이 대신 자신을 block() 시켜 프로세스의 상태를 running->waiting으로 변경
+	- 이전의 코드와 다른 점
+		- value값을 먼저 변경시킨 후 조건 검사
+		- while문 -> if문
+
+<br>
+
+- signal()
+	- wakeup() 호출로 waiting 큐에서 임계구역 진입을 기다리던 프로세스 중 하나 실행
+		- 프로세스의 상태를 waiting->ready로 변경
+
+<br>
+
+- block()과 wakeup()은 운영체제의 기본 시스템 콜로 동작
+- wait()과 signal()은 원자적 호출
+	- 두 함수가 동시에 실행될 수 없음
+	- 단일 처리기 환경
+		- 원자적 호출로 인터럽트가 발생해도 중단하지 않음으로써 해결 가능
+	- 다중 처리기 환경
+		- 단순 원자적 호출만으로는 해결 불가능
+		- 여러 개의 프로세스에서 동시에 인터럽트를 무시하는 것은 어려운 일이기 때문
+		- 따라서 compare_and_swap(), spinlock와 같은 locking 기술을 활용해 두 함수가 원자적으로 실행되는 것을 보장해야함
+
+<br>
+
+### 데드락(Deadlock)
+
+![deadlock](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Deadlocks.jpg)
+
+<br>
+
+- 무한 봉쇄라고도 함
+- 각 자원이 오직 하나만 존재할 때, B는 A 프로세스가 점유하고 있는 자원을 wait()하고 있고 A도 B 프세스가 점유하고 있는 자원을 wait()하고 있다면, 둘 중 하나가 signal()로 자원을 반납할 때까지 무한 대기할 것임. 이와 같은 상황을 교착상태(Deadlock)이라고 함.
+- 데드락의 결과: 무한 봉쇄(infinite blocking), 기아(starvation)
+	- 기아 : CPU의 사용을 무한정 대기한다.
+
+<br><br>
+
+reference: A. Silberschatz, P.B. Galvin, and G. Gagne, _Operating System Concepts Essentials_, 2nd ed. Hoboken, NJ, USA: Wiley, 2014.

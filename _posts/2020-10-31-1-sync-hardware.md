@@ -15,7 +15,7 @@ lock이 허용됐을 때만 임계구역에 들어갈 수 있다는 아이디어
 		- 모든 처리기에 인터럽트를 허용하지 않는 massage passing -> 시간 지체
 		- 인터럽트로 clock이 업데이트 -> 시간 지체
 
-=> 원자적(automically)으로 critical-section 문제를 해결하는 하드웨어 명령 제공
+=> 원자적(automically)으로 critical-section 문제를 해결하는 하드웨어 명령 제공<br>
 &nbsp;&nbsp;&nbsp; - test_and_set(), compare_and_swap()<br>
 
 * 원자적 : 인터럽트에 의해 중단될 수 없는 성질을 갖고 있음
@@ -24,7 +24,7 @@ lock이 허용됐을 때만 임계구역에 들어갈 수 있다는 아이디어
 
 ## test_and_set()
 
-![code1](https://lh3.googleusercontent.com/proxy/vBDrWyUk_1fm9fD5luTHbSjjTgjyYGCfz1-nCPmsokWbvrItw0LbpaoP7gskzktJIox8HNzZk8yRJ3B7y76c0pRP4q-f8QTOS7C9Twu-MXaeHrsvbGnGvcZTgm5AtLItemtex1P4Kz8JpTk8FoICjV-swckmITVz9rwBjRTT3xw7BQmIXSHBxXQ9)
+![code1](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_0304_TestAndSet.jpg)
 
 <br>
 
