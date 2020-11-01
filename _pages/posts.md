@@ -34,6 +34,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(4) : Semaphore](../_posts/2020-11-01-1-semaphore.md)&nbsp;&nbsp;_November 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(5) : Classic Problems of Synchronization](../_posts/2020-11-01-2-classic-sync-problems.md)&nbsp;&nbsp;_November 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(6) : Monitors](../_posts/2020-11-01-3-monitors.md)&nbsp;&nbsp;_November 1, 2020_<br>
+&nbsp;&nbsp;&nbsp;[프로세스 동기화(7) : Deadlocks](../_posts/2020-11-01-4-deadlocks.md)&nbsp;&nbsp;_November 1, 2020_<br>
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>
