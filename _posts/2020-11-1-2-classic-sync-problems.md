@@ -43,12 +43,10 @@ author: "DAEUN"
 	- signal(empty)
 		- empty++
 
-<details>
-	<summary> wait(), signal() 코드 </summary>
-	
-![code](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Semaphore2.jpg)
 
-</details>
+<a href="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Semaphore2.jpg">
+	wait(), signal() 코드
+</a>
 
 <br><br>
 
