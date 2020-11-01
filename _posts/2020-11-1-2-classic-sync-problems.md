@@ -45,7 +45,9 @@ author: "DAEUN"
 
 <details>
 	<summary> wait(), signal() 코드 </summary>
+	
 ![code](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_Semaphore2.jpg)
+
 </details>
 
 <br><br>
@@ -103,6 +105,8 @@ author: "DAEUN"
 <br>
 
 ## The Dining-Philosophers Problem
+
+<br>
 
 <img src="https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter5/5_13_DiningPhilosophers.jpg" width="350">
 
