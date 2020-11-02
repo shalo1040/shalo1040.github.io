@@ -36,6 +36,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(6) : Monitors](../_posts/2020-11-01-3-monitors.md)&nbsp;&nbsp;_November 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[프로세스 동기화(7) : Deadlocks](../_posts/2020-11-01-4-deadlocks.md)&nbsp;&nbsp;_November 1, 2020_<br>
 &nbsp;&nbsp;&nbsp;[CPU 스케줄링](../_posts/2020-11-02-cpu-scheduling.md)&nbsp;&nbsp;_November 2, 2020_<br>
+&nbsp;&nbsp;&nbsp;[메모리 관리(1)](../_posts/2020-11-03-1-memory-management-vol1.md)&nbsp;&nbsp;_November 3, 2020_<br>
 
 ## Software Engineering
 &nbsp;&nbsp;&nbsp;[Introduction of Software Engineering](../_posts/2020-04-10-intro-of-software-engineering.md)&nbsp;&nbsp;_April 10, 2020_<br>
