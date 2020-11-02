@@ -64,11 +64,14 @@ author : "DAEUN"
 | P2 | 3 |
 | P3 | 3 |
 
+<br>
+
 위와 같이 P1, P2, P3 순서대로 시스템에 도착했을 때 간트 차트(Gantt Chart)는 아래와 같다.
+
+<br>
 
 ![fcfs](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_FCFS_Chart1.jpg)
 
-<br>
 
 - 대기 시간
 	- P1 = 0
@@ -80,15 +83,18 @@ author : "DAEUN"
 
 반면, 만약 프로세스가 P2, P3, P1 순서로 들어왔다면 아래와 같을 것이다.
 
+<br>
+
 ![fcfs](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_FCFS_Chart2.jpg)
 
-<br>
 
 - 대기 시간
 	- P1 = 6
 	- P2 = 0
 	- P3 = 3
 - 평균 대기 시간 = (6+0+3)/3 = **3**
+
+<br>
 
 => 앞서 본 경우보다 성능이 향상됨을 알 수 있다.<br>
 => **호위 효과(Convoy effect)** : CPU를 오래 사용하는 프로세스를 다른 모든 프로세스들이 기다리며 겪는 효과<br>
@@ -121,14 +127,19 @@ ready 큐에 있는 프로세스의 burst 길이가 작은 프로세스를 스�
 | P3 | 7 |
 | P4 | 3 |
 
-위와 같이 프로세스가 존재할 때, 간트 차트(Gantt Chart)는 아래와 같다.
+<br>
 
-![sjf](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_SJF_Chart.jpg)
+위와 같이 프로세스가 존재할 때, 간트 차트(Gantt Chart)는 아래와 같다.
 
 <br>
 
+![sjf](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_SJF_Chart.jpg)
+
+
 - 평균 대기 시간 = (3+16+9+0)/4 = 7
 	- FCFS 스케줄링일 때의 평균 대기 시간 = 10.25(ms)
+
+<br>
 
 선점 가능한 SJF는 다음에 나오는 Shortest-Remaining-Time-First이다.
 
@@ -138,6 +149,8 @@ ready 큐에 있는 프로세스의 burst 길이가 작은 프로세스를 스�
 
 SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가장 작은 프로세스 선택
 
+<br>
+
 | Process | Arrival Time | Burst Time |
 | :---: | :---: | :---: |
 | P1 | 0 | 8 |
@@ -145,11 +158,14 @@ SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가
 | P3 | 2 | 9 |
 | P4 | 3 | 5 |
 
+<br>
+
 위와 같이 프로세스가 요청될 때, 간트 차트(Gantt Chart)는 아래와 같다.
+
+<br>
 
 ![srtf](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_PreemptiveSJF_Chart.jpg)
 
-<br>
 
 - 평균 대기 시간 = {(10-1) + (1-1) + (17-2) + (5-3)}/4 = 26/4 = 6.5(ms)
 
@@ -169,6 +185,8 @@ SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가
 	- 해결방법 : **노화(aging)**
 		- 일정한 시간마다 프로세스의 우선순위를 증가시킨다.
 
+<br>
+
 | Process | Burst Time | Priority |
 | :---: | :---: | :---: |
 | P1 | 10 | 3 |
@@ -177,6 +195,7 @@ SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가
 | P4 | 1 | 5 |
 | P5 | 5 | 2 |
 
+<br>
 
 ![priority](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_PriorityChart.jpg)
 
@@ -212,7 +231,11 @@ SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가
 | P2 | 3 |
 | P3 | 3 |
 
+<br>
+
 시간 할당량이 4이고 위와 같이 프로세스가 요청될 때, 간트 차트(Gantt Chart)는 아래와 같다.
+
+<br>
 
 ![rr](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_RoundRobinChart.jpg)
 
@@ -245,10 +268,11 @@ SJF 스케줄링에서 프로세스의 도착 시간에 따라 CPUT burst가 가
 		- foreground 큐는 80%의 CPU 시간을 할당 받아 Round Robin 스케줄링
 		- background 큐는 20%의 CPU 시간을 할당 받아 FCFS 스케줄링
 
+<br>
 
 ![queue](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter6/6_06_MultilevelQueueScheduling.jpg)
 
-<br>
+<br><br>
 
 ## 다단계 피드백 큐(Multilevel Feedback Queue) 스케줄링
 
