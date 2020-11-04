@@ -55,6 +55,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[HTTP 메시지 구조](../_posts/2020-10-25-application-layer-vol4.md)&nbsp;&nbsp;_October 25, 2020_<br>
 &nbsp;&nbsp;&nbsp;[웹 기술 : Cookie, Web Caching](../_posts/2020-10-26-application-layer-vol5.md)&nbsp;&nbsp;_October 26, 2020_<br>
 &nbsp;&nbsp;&nbsp;[응용 계층의 프로토콜 : FTP](../_posts/2020-10-27-application-layer-vol6.md)&nbsp;&nbsp;_October 27, 2020_<br>
+&nbsp;&nbsp;&nbsp;[응용 계층의 프로토콜 : SMTP](../_posts/2020-11-04-application-layer-vol7.md)&nbsp;&nbsp;_November 4, 2020_<br>
 
 ## Databases
 &nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
