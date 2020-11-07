@@ -15,6 +15,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Selection Sort](../_posts/2020-01-02-selection-sort.md)&nbsp;&nbsp;_January 2, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Bubble Sort](../_posts/2020-01-05-bubble-sort.md)&nbsp;&nbsp;_January 5, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Merge Sort](../_posts/2020-01-24-merge-sort.md)&nbsp;&nbsp;_January 24, 2020_<br>
+&nbsp;&nbsp;&nbsp;[최단경로 문제 : Dijkstra Algorithm](../_posts/2020-11-07-dijkstra.md)&nbsp;&nbsp;_November 7, 2020_<br>
 
 ## Operating Systems
 &nbsp;&nbsp;&nbsp;[What is Operating System? (1)](../_posts/2019-12-21-what-is-operating-systems.md)&nbsp;&nbsp;_December 21, 2019_<br>
