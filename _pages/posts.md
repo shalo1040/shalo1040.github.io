@@ -61,6 +61,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[Multiplexing and Demultiplexing](../_posts/2020-11-15-transport-layer-vol1.md)&nbsp;&nbsp;_November 15, 2020_<br>
 &nbsp;&nbsp;&nbsp;[UDP](../_posts/2020-11-15-transport-layer-vol2.md)&nbsp;&nbsp;_November 15, 2020_<br>
 &nbsp;&nbsp;&nbsp;[TCP](../_posts/2020-12-11-transport-layer-vol3.md)&nbsp;&nbsp;_December 11, 2020_<br>
+&nbsp;&nbsp;&nbsp;[신뢰성 있는 통신 : RDT](../_posts/2020-12-17-transport-layer-vol4.md)&nbsp;&nbsp;_December 17, 2020_<br>
 
 ## Databases
 &nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
