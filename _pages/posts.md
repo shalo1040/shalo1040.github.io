@@ -63,6 +63,7 @@ permalink: /posts/
 &nbsp;&nbsp;&nbsp;[TCP](../_posts/2020-12-11-transport-layer-vol3.md)&nbsp;&nbsp;_December 11, 2020_<br>
 &nbsp;&nbsp;&nbsp;[신뢰성 있는 통신 : RDT](../_posts/2020-12-17-transport-layer-vol4.md)&nbsp;&nbsp;_December 17, 2020_<br>
 &nbsp;&nbsp;&nbsp;[Go-Back-N](../_posts/2021-01-01-transport-layer-vol5.md)&nbsp;&nbsp;_January 1, 2021_<br>
+&nbsp;&nbsp;&nbsp;[Selective-Repeat](../_posts/2021-01-04-transport-layer-vol6.md)&nbsp;&nbsp;_January 4, 2021_<br>
 
 ## Databases
 &nbsp;&nbsp;&nbsp;[How to Design a Databse](../_posts/2020-09-17-how-to-design-a-database.md)&nbsp;&nbsp;_September 17, 2020_<br>
